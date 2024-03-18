@@ -1,0 +1,31 @@
+html, body {
+  margin: 0;
+  padding: 3rem;
+  background-image: url(fruit-variety-fruits-wallpaper.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-blend-mode: overlay;
+  background-color: #b9cccf;
+  background-attachment: fixed;
+}
+img {
+  max-width: 100%;
+}
+.logo {
+  width: 40%;
+  margin: 5%;
+}
+.img-thumbnail {
+  background-color: #ffffff;
+  padding: .50em;
+}
+h3 {
+  font-family: 'Signika Negative', sans-serif;
+  font-size: 3vw;
+}
+.card {
+  max-width: 100%;
+}
+h5 {
+  font-family: 'Signika Negative', sans-serif;
+}
